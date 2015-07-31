@@ -1,0 +1,23 @@
+{
+  "name": "swagger-1.2-schema",
+  "version": "1.0.0",
+  "description": "Swagger 1.2 JSON Schema file",
+  "main": "node_modules/swagger-schema-official/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsen1/swagger-1.2-schema.git"
+  },
+  "keywords": [
+    "Swagger",
+    "Schema"
+  ],
+  "author": "Mohsen Azimi <me@azimi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohsen1/swagger-1.2-schema/issues"
+  },
+  "homepage": "https://github.com/mohsen1/swagger-1.2-schema#readme",
+  "dependencies": {
+    "swagger-schema-official": "^1.2.0"
+  }
+}
